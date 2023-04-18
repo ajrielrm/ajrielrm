@@ -10,11 +10,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Software Development spesifically kotlin
+- 🌱 Web Developer
 
 - 📫 How to reach me **ajrielrisqymaulana@gmail.com**
 
-- ⚡ Fun fact :- I can't code
+- 💖 Monique
 
 <br>
 
