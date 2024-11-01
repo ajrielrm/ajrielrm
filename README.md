@@ -12,7 +12,7 @@
 
 - 🌱 Web Developer
 
-- 📫 How to reach me **ajrielrisqymaulana@gmail.com**
+- 📫 How to reach me **ajrielrm@gmail.com**
 
 - 💖 Monique
 
@@ -50,6 +50,12 @@
     rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="css3"
       width="40" height="40" /> </a>
+
+  <h3 align="left">Certification:</h3>
+ <a href="https://certs.ine.com/7623ae2a-86eb-429e-8516-68dc707cc540#gs.hhjmbr#acc.Ud8rzVxy" target="_blank"
+    rel="noreferrer"> <img
+      src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/119078850" alt="css3"
+      width="40" height="40" /> </a> 
   
   [![An image of @ajrielrm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajrielrm)](https://holopin.io/@ajrielrm)
 
