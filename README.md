@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm AjrielRM</h1>
-<h3 align="center">Student at SMK Bina Informatika, Tangerang Selatan🌟.</h3>
+<h1 align="center">Hi, I'm AjrielRM</h1>
+<h3 align="center">Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | CVE-2024-48217 |</h3>
 
 <br>
 
