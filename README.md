@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm AjrielRM</h1>
-<h3 align="center">Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | CVE-2024-48217 |</h3>
+<h3 align="center">Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Founder of CVE-2024-48217 |</h3>
 
 <br>
 
