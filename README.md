@@ -1,10 +1,10 @@
-<!-- Top Banner -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=AjrielRM&fontSize=45&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=AjrielRM&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
 </div>
 
 <h3 align="center">
-Cyber Security Enthusiast | CompTIA Security+ | eJPT | MTCNA | CVE-2024-48217 Author
+Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Author of CVE-2024-48217
 </h3>
 
 <p align="center">
