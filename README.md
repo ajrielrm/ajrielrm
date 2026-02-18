@@ -9,10 +9,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-- 🌱 Web Developer
-
-- 📫 How to reach me **ajrielrm@gmail.com**
+- If the devil couldn't get to you, he sends you a cute short girl that is half of your size 
 
 <br>
 
