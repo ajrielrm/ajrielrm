@@ -1,58 +1,84 @@
-<h1 align="center">Hi, I'm AjrielRM</h1>
-<h3 align="center">Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Author of CVE-2024-48217 |</h3>
+<!-- Top Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=200&section=header&text=AjrielRM&fontSize=45&fontAlignY=35&animation=fadeIn" />
+</div>
 
-<br>
+<h3 align="center">
+Cyber Security Enthusiast | CompTIA Security+ | eJPT | MTCNA | CVE-2024-48217 Author
+</h3>
 
-
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-- If the devil couldn't get to you, he sends you a cute short girl that is half of your size 
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ajrielrm/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://instagram.com/signalsalt" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://twitter.com/signalsalt" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+<p align="center">
+  <em>"If the devil couldn't get to you, he sends you a cute short girl that is half of your size."</em>
 </p>
 
-<br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
- </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> <a href="https://www.php.net/"
-    target="_blank" rel="noreferrer"> <img
-      src="https://lofrev.net/wp-content/photos/2017/05/php_emblem.png" alt="PHP" width="60"
-      height="40" /> </a> </a> </a> 
-  <a href="https://laravel.com/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="css3"
-      width="40" height="40" /> </a>
+## 💜 About Me
 
-  <h3 align="left">Certification:</h3>
- <a href="https://certs.ine.com/7623ae2a-86eb-429e-8516-68dc707cc540#gs.hhjmbr#acc.Ud8rzVxy" target="_blank"
-    rel="noreferrer"> <img
-      src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/119078850" alt="css3"
-      width="40" height="40" /> </a> 
-  
-  [![An image of @ajrielrm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajrielrm)](https://holopin.io/@ajrielrm)
+- 🔐 Cyber Security Professional  
+- 📜 CompTIA Security+ Certified  
+- 🛡️ eJPT Certified  
+- 🌐 MikroTik MTCNA Certified  
+- 🧠 CVE-2024-48217 Discoverer  
+- 💻 Passionate about Web Security & Penetration Testing  
 
- 
+---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajrielrm/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://instagram.com/signalsalt" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://twitter.com/signalsalt" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
+</p>
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <a href="https://certs.ine.com/7623ae2a-86eb-429e-8516-68dc707cc540#gs.hhjmbr#acc.Ud8rzVxy" target="_blank">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/119078850" height="100"/>
+  </a>
+</p>
+
+---
+
+## 🏆 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@ajrielrm">
+    <img src="https://holopin.me/ajrielrm" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajrielrm&show_icons=true&theme=tokyonight&title_color=CCCCFF&icon_color=CCCCFF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajrielrm&theme=tokyonight&ring=CCCCFF&fire=CCCCFF" height="170"/>
+</p>
+
+---
+
+## 💜 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajrielrm&color=CCCCFF&style=for-the-badge" />
+</p>
