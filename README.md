@@ -1,10 +1,11 @@
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8251ED&height=220&section=header&text=0xSierra&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
-</div>
+
 
 <h3 align="center">
-Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Author of CVE-2024-48217
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=8251ED&height=220&section=header&text=0xSierra&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
+</div>
+Cyber Security | CompTIA Security+ Certified Professional | eJPT | Author of CVE-2024-48217
 </h3>
 
 <p align="center">
@@ -18,27 +19,9 @@ Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Autho
 - 🔐 Cyber Security Professional  
 - 📜 CompTIA Security+ Certified  
 - 🛡️ eJPT Certified  
-- 🌐 MikroTik MTCNA Certified  
 - 🧠 CVE-2024-48217 Discoverer  
 - 💻 Passionate about Web Security & Penetration Testing  
 
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajrielrm/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://instagram.com/signalsalt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  <a href="https://twitter.com/signalsalt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-</p>
-
----
 
 ## Languages & Tools
 
