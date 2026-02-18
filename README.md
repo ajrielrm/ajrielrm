@@ -8,12 +8,12 @@ Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Autho
 </h3>
 
 <p align="center">
-  <em>"If the devil couldn't get to you, he sends you a cute short girl that is half of your size."</em>
+  <em>sierra{__libc_start_myheart_pop$rbp-0x20_k1nzi3_ret_}</em>
 </p>
 
 ---
 
-## 💜 About Me
+## About Me
 
 - 🔐 Cyber Security Professional  
 - 📜 CompTIA Security+ Certified  
@@ -24,7 +24,7 @@ Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Autho
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajrielrm/" target="_blank">
@@ -40,7 +40,7 @@ Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Autho
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" />
@@ -48,7 +48,7 @@ Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Autho
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <p align="center">
   <a href="https://certs.ine.com/7623ae2a-86eb-429e-8516-68dc707cc540#gs.hhjmbr#acc.Ud8rzVxy" target="_blank">
@@ -58,7 +58,7 @@ Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Autho
 
 ---
 
-## 🏆 Holopin Badges
+## Holopin Badges
 
 <p align="center">
   <a href="https://holopin.io/@ajrielrm">
@@ -68,7 +68,7 @@ Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Autho
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajrielrm&theme=tokyonight&ring=CCCCFF&fire=CCCCFF" height="170"/>
