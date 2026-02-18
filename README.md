@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8251ED&height=220&section=header&text=AjrielRM&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8251ED&height=220&section=header&text=0xSierra&fontSize=50&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
 </div>
 
 <h3 align="center">
@@ -71,7 +71,6 @@ Cyber Security | CompTIA Security+ Certified Professional | eJPT | MTCNA | Autho
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajrielrm&show_icons=true&theme=tokyonight&title_color=CCCCFF&icon_color=CCCCFF" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajrielrm&theme=tokyonight&ring=CCCCFF&fire=CCCCFF" height="170"/>
 </p>
 
